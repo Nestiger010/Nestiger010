@@ -1,4 +1,4 @@
-![banner](https://www.dropbox.com/scl/fi/uxdy51wwod2lfgo5a4gxn/Tarjeta-de-presentaci-n-firma-de-abogados-profesional-azul.jpg?rlkey=yhtxia42el4aa43dq3atpzju1&dl=0)
+![banner](https://www.canva.com/design/DAF_7wsYXdE/OfScmPdHc-kEjpt3iaI4tQ/edit)
 
 - 👋 Hi, I’m @Nestiger010
 - 👀 Yo estoy interesado en aplicar la gamificación y la data science en educación 
