@@ -1,6 +1,4 @@
-<div id="header" align="center">
-	<img src="[https://www.canva.com/design/DAF_7wsYXdE/G9z0-N10EZ7LNptESLeFXw/view?utm_content=DAF_7wsYXdE&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF_7wsYXdE/OfScmPdHc-kEjpt3iaI4tQ/edit)"/>
-</div
+![banner](https://www.dropbox.com/scl/fi/uxdy51wwod2lfgo5a4gxn/Tarjeta-de-presentaci-n-firma-de-abogados-profesional-azul.jpg?rlkey=yhtxia42el4aa43dq3atpzju1&dl=0)
 
 - 👋 Hi, I’m @Nestiger010
 - 👀 Yo estoy interesado en aplicar la gamificación y la data science en educación 
