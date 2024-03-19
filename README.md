@@ -1,5 +1,3 @@
-![banner](https://www.canva.com/design/DAF_7wsYXdE/OfScmPdHc-kEjpt3iaI4tQ/edit)
-
 - 👋 Hi, I’m @Nestiger010
 - 👀 Yo estoy interesado en aplicar la gamificación y la data science en educación 
 - 🌱 Actualmente estudio un Doctorado en Tecnología Educativa y cursos en data science
